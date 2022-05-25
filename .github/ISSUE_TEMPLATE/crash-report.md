@@ -1,3 +1,12 @@
+---
+name: Crash Report
+about: Game crashed? Make an issue here.
+title: ''
+labels: crash
+assignees: ''
+
+---
+
 **Describe what lead up to the crash**
 
 A clear and concise description of how/what lead to the game crashing.
